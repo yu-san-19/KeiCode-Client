@@ -1,0 +1,22 @@
+{
+  "name": "keicode-client",
+  "version": "0.0.1",
+  "description": "KeiCode is very quicky judge machine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuma Soga <ysoga19@gmail> (https://github.com/yu-san-19/)",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yu-san-19/KeiCode-Client.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yu-san-19/KeiCode-Client/issues"
+  },
+  "homepage": "https://github.com/yu-san-19/KeiCode-Client#readme",
+  "devDependencies": {
+    "electron": "^2.0.1"
+  }
+}
